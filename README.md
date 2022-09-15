@@ -1,4 +1,10 @@
-- 👋 Hi, I’m Manuel Artés
+
+
+![Dark Purple   Coral Gradient Content Creator LinkedIn Banner](https://user-images.githubusercontent.com/56972768/190520442-218b7609-14b1-4214-ba10-511d669f20bd.png)
+
+
+
+-👋 Hi, I’m Manuel Artés
 - 💻 I am a software development technician and a computer science graduate student.
 - 👀 I am interested in web development with laravel, the use of ML models and about DevOps topics. 
 - 🌱 I am currently learning Golang and NPL 
