@@ -8,7 +8,7 @@
 - 💻 I am a software development technician and a computer science graduate student.
 - 👀 I am interested in web development with ⚛️React js and Next.js. 
 - 🌱 I am currently learning 🟦Typescript and 📱Móvil development.
-- 💞️ I'm looking to collaborate on development projects using the react.js or 🅰️ Angular ecosystem.
+- 💞️ I'm looking to collaborate on development projects using the react.js or 🔼Next.js ecosystem.
 - 📫 You can contact me through my email: manuelartes.sj@gmail.com
 
 <!---
